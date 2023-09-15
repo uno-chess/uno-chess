@@ -1,0 +1,14 @@
+**/*.rs.bk
+**/Cargo.lock
+**/bin/
+**/pkg/
+**/wasm-pack.log
+**/target
+**/node_modules
+**/www/dist
+
+**/npm-debug.log
+**/.git
+**/.gitignore
+**/README.md
+

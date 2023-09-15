@@ -1,0 +1,6 @@
+[submodule "uno-chess-core"]
+	path = uno-chess-core
+	url = https://github.com/AaronvDiepen/uno-chess-core.git
+[submodule "uno-chess-website"]
+	path = uno-chess-website
+	url = https://github.com/AaronvDiepen/uno-chess-website.git
